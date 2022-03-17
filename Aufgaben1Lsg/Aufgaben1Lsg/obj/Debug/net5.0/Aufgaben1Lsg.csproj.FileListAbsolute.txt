@@ -1,0 +1,16 @@
+C:\Users\Bx\Documents\_Pool\SAE\Basics\Übungen\Aufgaben\Aufgaben1Lsg\Aufgaben1Lsg\bin\Debug\net5.0\Aufgaben1Lsg.exe
+C:\Users\Bx\Documents\_Pool\SAE\Basics\Übungen\Aufgaben\Aufgaben1Lsg\Aufgaben1Lsg\bin\Debug\net5.0\Aufgaben1Lsg.deps.json
+C:\Users\Bx\Documents\_Pool\SAE\Basics\Übungen\Aufgaben\Aufgaben1Lsg\Aufgaben1Lsg\bin\Debug\net5.0\Aufgaben1Lsg.runtimeconfig.json
+C:\Users\Bx\Documents\_Pool\SAE\Basics\Übungen\Aufgaben\Aufgaben1Lsg\Aufgaben1Lsg\bin\Debug\net5.0\Aufgaben1Lsg.runtimeconfig.dev.json
+C:\Users\Bx\Documents\_Pool\SAE\Basics\Übungen\Aufgaben\Aufgaben1Lsg\Aufgaben1Lsg\bin\Debug\net5.0\Aufgaben1Lsg.dll
+C:\Users\Bx\Documents\_Pool\SAE\Basics\Übungen\Aufgaben\Aufgaben1Lsg\Aufgaben1Lsg\bin\Debug\net5.0\ref\Aufgaben1Lsg.dll
+C:\Users\Bx\Documents\_Pool\SAE\Basics\Übungen\Aufgaben\Aufgaben1Lsg\Aufgaben1Lsg\bin\Debug\net5.0\Aufgaben1Lsg.pdb
+C:\Users\Bx\Documents\_Pool\SAE\Basics\Übungen\Aufgaben\Aufgaben1Lsg\Aufgaben1Lsg\obj\Debug\net5.0\Aufgaben1Lsg.csproj.AssemblyReference.cache
+C:\Users\Bx\Documents\_Pool\SAE\Basics\Übungen\Aufgaben\Aufgaben1Lsg\Aufgaben1Lsg\obj\Debug\net5.0\Aufgaben1Lsg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bx\Documents\_Pool\SAE\Basics\Übungen\Aufgaben\Aufgaben1Lsg\Aufgaben1Lsg\obj\Debug\net5.0\Aufgaben1Lsg.AssemblyInfoInputs.cache
+C:\Users\Bx\Documents\_Pool\SAE\Basics\Übungen\Aufgaben\Aufgaben1Lsg\Aufgaben1Lsg\obj\Debug\net5.0\Aufgaben1Lsg.AssemblyInfo.cs
+C:\Users\Bx\Documents\_Pool\SAE\Basics\Übungen\Aufgaben\Aufgaben1Lsg\Aufgaben1Lsg\obj\Debug\net5.0\Aufgaben1Lsg.csproj.CoreCompileInputs.cache
+C:\Users\Bx\Documents\_Pool\SAE\Basics\Übungen\Aufgaben\Aufgaben1Lsg\Aufgaben1Lsg\obj\Debug\net5.0\Aufgaben1Lsg.dll
+C:\Users\Bx\Documents\_Pool\SAE\Basics\Übungen\Aufgaben\Aufgaben1Lsg\Aufgaben1Lsg\obj\Debug\net5.0\ref\Aufgaben1Lsg.dll
+C:\Users\Bx\Documents\_Pool\SAE\Basics\Übungen\Aufgaben\Aufgaben1Lsg\Aufgaben1Lsg\obj\Debug\net5.0\Aufgaben1Lsg.pdb
+C:\Users\Bx\Documents\_Pool\SAE\Basics\Übungen\Aufgaben\Aufgaben1Lsg\Aufgaben1Lsg\obj\Debug\net5.0\Aufgaben1Lsg.genruntimeconfig.cache

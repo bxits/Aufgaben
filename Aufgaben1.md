@@ -1,5 +1,5 @@
 Aufgabe 1
-Lesen Sie eine Zeile von der Konsole ein und geben Sie diese wieder aus.
+Lesen Sie eine Zeile von der Konsole ein und geben Sie diese direkt wieder aus.
 
 Aufgabe 2
 Lesen Sie zwei Zeilen von der Konsole ein und verketten Sie beide Eingabezeilen und geben Sie diese als eine Zeichenkette wieder aus.
