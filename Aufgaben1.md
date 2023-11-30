@@ -56,3 +56,8 @@ Erstellen Sie ein String-Array mit 10 Stellen. Bieten Sie dem Benutzer, die Mög
 
 Aufgabe Array4
 Erstellen Sie ein Ganzzahlen-Array mit 10.000 Stellen und befüllen Sie dieses mit Zufallszahlen zwischen 0 und 100. Ermitteln sie die Häufigkeit jeder einzelnen Zahl und geben Sie diese aus.
+
+[ToDo] 
+Aufgaben zu String-Manipilation Split(), string as char[], Trim(), Concat, @, $-Interpolation
+Aufgaben zu Datei-Zugriff mit Streams. Schreiben, Lesen. Modes CRUD
+
