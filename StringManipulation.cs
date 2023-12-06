@@ -103,8 +103,6 @@ namespace Aufgaben1
             //       Sie der Variable begruessung den Wert "Hallo Welt" zu. Geben Sie im
             //       Anschluss die Variable platzhalter aus
 
-            Console.WriteLine(platzhalter);
-
             // ToDo: Verändern Sie den String begruessung in eine andere Sprache (z.B.
             //       Englisch) und geben sie wieder platzhalter aus.
             //       Hat sich die Begrüßung verändert?
