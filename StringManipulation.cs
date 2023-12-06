@@ -8,7 +8,7 @@ namespace Aufgaben1
 {
     class StringManipulation
     {
-        public void Run()
+        public void main()
         {
             string text = "Start manipulation";
             Console.WriteLine(text);
