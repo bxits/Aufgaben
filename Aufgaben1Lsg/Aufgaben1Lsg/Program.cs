@@ -11,6 +11,7 @@ namespace Aufgaben1Lsg
             //Aufgabe3();
             //Aufgabe4();
             AufgabeG1();
+            StringManipulation.Run();
 
             //Damit das Programmfenster nicht gleich wieder zu geht.
             Console.ReadLine();
