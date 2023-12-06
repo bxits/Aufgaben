@@ -19,7 +19,7 @@ Lesen Sie zwei Zahlen ein und addieren Sie beide. Geben Sie das Ergebnis auf der
 # Aufgabe G1
 
 Lesen Sie Ganzzahlen und Zeichenfolgen von der Oberfläche ein. Geben Sie aus, ob sich die Eingaben in Ganzzahlen umwandeln lassen. Verwenden Sie folgenden Code, den Sie noch anpassen müssen:
-```cs
+```csharp
 int n;
 bool isNumeric = int.TryParse("11", out n);
 ```
@@ -27,7 +27,7 @@ bool isNumeric = int.TryParse("11", out n);
 # Aufgabe D1
 
 Lesen Sie Dezimalzahlen und Zeichenfolgen von der Oberfläche ein. Geben Sie aus, ob sich die Eingaben in Dezimalzahlen umwandeln lassen. Verwenden Sie folgenden Code, den Sie noch anpassen müssen:
-```cs
+```csharp
 double n;
 bool isNumeric = double.TryParse("11", out n);
 ```
@@ -46,7 +46,7 @@ Führen Sie die entsprechende Rechnung aus.
 # Aufgabe Zahlenraten
 
 Generieren Sie eine Zufallszahl mit
-```cs
+```csharp
 Random rnd = new Random();
 int zufallsZahl = rnd.Next(1,11) //Eine Zufallszahl zwischen 1 und 10 (mit der 1, ohne die 11)
 ```
