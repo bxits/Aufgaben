@@ -37,6 +37,9 @@ int zufallsZahl = rnd.Next(1,11) //Eine Zufallszahl zwischen 1 und 10 (mit der 1
 
 Lassen Sie den Benutzer eine Zahl eingeben und überprüfen Sie, ob der Benutzer diese Zahl erraten hat.
 
+Aufgabe Lottozahlengenerator
+Erzeugen Sie mit einem Zufallszahlengenerator ein Array mit 7 Ganzzahlen aus dem Bereich 1 bis 49. Hinweis: Sie müssen Dopplungen vermeiden. Es dürfen nicht zweimal dieselbe Zahlen im Array vorkommen.
+
 Aufgabe Ausgabeschleife
 Lesen Sie eine Zeichnkette ein. Lesen Sie danach eine Zahl ein. Die Zeichenkette soll so oft wie die Zahl vorgibt ausgegeben werden. Verwenden Sie hierfür eine for-Schleife.
 
