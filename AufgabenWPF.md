@@ -3,7 +3,7 @@ Ergänzen Sie die WPF-Applikation aus dem Unterricht um folgende Funktionen:
 
 1. Bauen Sie zwei TextBoxen ein. Name "txtEingabe1" und "txtEingabe2".
 2. Bauen Sie ein Label für die Ausgabe ein. Name "lblAusgabe".
-3. Belegen Sie den Button btnBeruessung mit folgender Logik: 
+3. Belegen Sie den Button btnBegruessung mit folgender Logik: 
     - Den Namen aus der Textbox txtEingabe1 einlesen.
     - Die Begrüßungsformel "Hallo ...." vor den Namen stellen und in einer String-Variablen speichern.
     - Die String-Variable im Label lblAusgabe ausgeben.
